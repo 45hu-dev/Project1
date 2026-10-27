@@ -1,0 +1,25 @@
+body{
+  background-color: lightyellow;
+}
+
+h2{
+  background-color: green; color: White; text-align: center;
+}
+
+h3{
+  background-color: orange; color: white; text-align: center;
+}
+
+h4{
+  background-color: Grey; color: White; text-align: center;
+}
+
+p{
+  color: Green; font-size:20px; text-align:center;
+}
+
+table,th,td{
+  border:1px solid black;
+  border-collapse: collapse;
+  margin:auto;
+}
